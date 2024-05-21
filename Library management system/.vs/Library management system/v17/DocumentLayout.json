@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kundai\\Documents\\projects\\Library management system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{637BFFD0-DC3B-4E6A-856E-6A6C94039F06}|Library management system\\Library management system.vbproj|c:\\users\\kundai\\documents\\projects\\library management system\\library management system\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{637BFFD0-DC3B-4E6A-856E-6A6C94039F06}|Library management system\\Library management system.vbproj|solutionrelative:library management system\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BFFD0-DC3B-4E6A-856E-6A6C94039F06}|Library management system\\Library management system.vbproj|c:\\users\\kundai\\documents\\projects\\library management system\\library management system\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{637BFFD0-DC3B-4E6A-856E-6A6C94039F06}|Library management system\\Library management system.vbproj|solutionrelative:library management system\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BFFD0-DC3B-4E6A-856E-6A6C94039F06}|Library management system\\Library management system.vbproj|c:\\users\\kundai\\documents\\projects\\library management system\\library management system\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{637BFFD0-DC3B-4E6A-856E-6A6C94039F06}|Library management system\\Library management system.vbproj|solutionrelative:library management system\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637BFFD0-DC3B-4E6A-856E-6A6C94039F06}|Library management system\\Library management system.vbproj|c:\\users\\kundai\\documents\\projects\\library management system\\library management system\\addaccount.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{637BFFD0-DC3B-4E6A-856E-6A6C94039F06}|Library management system\\Library management system.vbproj|solutionrelative:library management system\\addaccount.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "C:\\Users\\kundai\\Documents\\projects\\Library management system\\Library management system\\Class1.vb",
+              "RelativeDocumentMoniker": "Library management system\\Class1.vb",
+              "ToolTip": "C:\\Users\\kundai\\Documents\\projects\\Library management system\\Library management system\\Class1.vb",
+              "RelativeToolTip": "Library management system\\Class1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-21T13:17:39.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.vb",
+              "DocumentMoniker": "C:\\Users\\kundai\\Documents\\projects\\Library management system\\Library management system\\login.vb",
+              "RelativeDocumentMoniker": "Library management system\\login.vb",
+              "ToolTip": "C:\\Users\\kundai\\Documents\\projects\\Library management system\\Library management system\\login.vb",
+              "RelativeToolTip": "Library management system\\login.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-21T13:17:13.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kundai\\Documents\\projects\\Library management system\\Library management system\\login.vb",
+              "RelativeDocumentMoniker": "Library management system\\login.vb",
+              "ToolTip": "C:\\Users\\kundai\\Documents\\projects\\Library management system\\Library management system\\login.vb [Design]",
+              "RelativeToolTip": "Library management system\\login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-21T13:16:53.297Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddAccount.vb",
+              "DocumentMoniker": "C:\\Users\\kundai\\Documents\\projects\\Library management system\\Library management system\\AddAccount.vb",
+              "RelativeDocumentMoniker": "Library management system\\AddAccount.vb",
+              "ToolTip": "C:\\Users\\kundai\\Documents\\projects\\Library management system\\Library management system\\AddAccount.vb",
+              "RelativeToolTip": "Library management system\\AddAccount.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-21T13:15:45.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

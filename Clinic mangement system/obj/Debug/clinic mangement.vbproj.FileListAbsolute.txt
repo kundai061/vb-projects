@@ -1,0 +1,23 @@
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinic mangement.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Clinic mangement system\bin\Debug\clinic.exe.config
+C:\Users\Admin\Documents\Clinic mangement system\bin\Debug\clinic.exe
+C:\Users\Admin\Documents\Clinic mangement system\bin\Debug\clinic.pdb
+C:\Users\Admin\Documents\Clinic mangement system\bin\Debug\clinic.xml
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinicenv.Form1.resources
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinicenv.Form2.resources
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinicenv.LoginForm1.resources
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinicenv.Resources.resources
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinic.exe
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinic.xml
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinic.pdb
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinicenv.Form3.resources
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinicenv.loading.resources
+C:\Users\Admin\Documents\Clinic mangement system\bin\Debug\clinic.exe.manifest
+C:\Users\Admin\Documents\Clinic mangement system\bin\Debug\clinic.application
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinic.TrustInfo.xml
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinic.exe.manifest
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinic.application
+C:\Users\Admin\Documents\Clinic mangement system\bin\Debug\bin\Debug\clinic.mdb
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinicenv.Form5.resources
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinicenv.accounts.resources
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\clinic mangement.vbprojResolveAssemblyReference.cache

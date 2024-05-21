@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\bin\Debug\Assets Mangement System.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\bin\Debug\Database8.mdb
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\bin\Debug\Assets Mangement System.exe
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\bin\Debug\Assets Mangement System.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\bin\Debug\Assets Mangement System.xml
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\obj\Debug\Assets_Mangement_System.AddAssets.resources
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\obj\Debug\Assets_Mangement_System.login.resources
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\obj\Debug\Assets_Mangement_System.main.resources
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\obj\Debug\Assets_Mangement_System.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\obj\Debug\Assets Mangement System.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\obj\Debug\Assets Mangement System.exe
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\obj\Debug\Assets Mangement System.xml
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\obj\Debug\Assets Mangement System.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\obj\Debug\Assets_Mangement_System.AddSupplier.resources
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\obj\Debug\Assets_Mangement_System.Employees.resources
+c:\users\admin\documents\visual studio 2013\Projects\Assets Mangement System\Assets Mangement System\obj\Debug\Assets_Mangement_System.AddEmployee.resources

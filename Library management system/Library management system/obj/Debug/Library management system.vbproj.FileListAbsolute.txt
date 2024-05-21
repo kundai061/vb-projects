@@ -1,0 +1,45 @@
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\bin\Debug\Library management system.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\bin\Debug\Library management system.exe
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\bin\Debug\Library management system.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\bin\Debug\Library management system.xml
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library_management_system.AddBooks.resources
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library_management_system.AddStudent.resources
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library_management_system.AllRented.resources
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library_management_system.BookDetail.resources
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library_management_system.IssueBook.resources
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library_management_system.main.resources
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library_management_system.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library_management_system.ReturnBook.resources
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library_management_system.StudentDetail.resources
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library management system.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library management system.exe
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library management system.xml
+c:\users\admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library management system.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library management system.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library_management_system.login.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\Library management system\Library management system\bin\Debug\Library management system.exe.manifest
+C:\Users\Admin\documents\visual studio 2013\Projects\Library management system\Library management system\bin\Debug\Library management system.application
+C:\Users\Admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library management system.exe.manifest
+C:\Users\Admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library management system.application
+C:\Users\Admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library_management_system.BillStudent.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\Library management system\Library management system\obj\Debug\Library_management_system.AllBilled.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library management system.vbproj.AssemblyReference.cache
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library_management_system.AddAccount.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library_management_system.AddBooks.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library_management_system.AddStudent.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library_management_system.AllBilled.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library_management_system.AllRented.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library_management_system.BillStudent.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library_management_system.BookDetail.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library_management_system.ForgotPassword.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library_management_system.IssueBook.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library_management_system.login.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library_management_system.main.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library_management_system.Resources.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library_management_system.ReturnBook.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library_management_system.StudentDetail.resources
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library management system.vbproj.GenerateResource.cache
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library management system.vbproj.CoreCompileInputs.cache
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library management system.exe
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library management system.xml
+C:\Users\kundai\Documents\projects\Library management system\Library management system\obj\Debug\Library management system.pdb

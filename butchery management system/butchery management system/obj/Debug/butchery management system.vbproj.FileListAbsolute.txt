@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2013\Projects\butchery management system\butchery management system\bin\Debug\butchery management system.exe.config
+C:\Users\Admin\Documents\butchery management system\butchery management system\bin\Debug\butchery management system.exe.config
+C:\Users\Admin\Documents\butchery management system\butchery management system\bin\Debug\butchery management system.exe
+C:\Users\Admin\Documents\butchery management system\butchery management system\bin\Debug\butchery management system.pdb
+C:\Users\Admin\Documents\butchery management system\butchery management system\bin\Debug\butchery management system.xml
+C:\Users\Admin\Documents\butchery management system\butchery management system\obj\Debug\butchery_management_system.frmlogin.resources
+C:\Users\Admin\Documents\butchery management system\butchery management system\obj\Debug\butchery_management_system.main.resources
+C:\Users\Admin\Documents\butchery management system\butchery management system\obj\Debug\butchery_management_system.Resources.resources
+C:\Users\Admin\Documents\butchery management system\butchery management system\obj\Debug\butchery management system.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\butchery management system\butchery management system\obj\Debug\butchery management system.exe
+C:\Users\Admin\Documents\butchery management system\butchery management system\obj\Debug\butchery management system.xml
+C:\Users\Admin\Documents\butchery management system\butchery management system\obj\Debug\butchery management system.pdb
+C:\Users\Admin\Documents\butchery management system\butchery management system\bin\Debug\butchery.mdb
+C:\Users\Admin\Documents\butchery management system\butchery management system\obj\Debug\butchery_management_system.addEmployee.resources
+C:\Users\Admin\Documents\butchery management system\butchery management system\obj\Debug\butchery_management_system.employees.resources
+C:\Users\Admin\Documents\butchery management system\butchery management system\obj\Debug\butchery management system.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\butchery management system\butchery management system\obj\Debug\butchery_management_system.addItem.resources
+C:\Users\Admin\Documents\butchery management system\butchery management system\obj\Debug\butchery_management_system.items.resources

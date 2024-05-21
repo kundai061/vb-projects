@@ -1,0 +1,1 @@
+c:\users\admin\documents\visual studio 2013\Projects\clinic management system\clinic management system\bin\Debug\clinic management system.exe.config

@@ -1,0 +1,48 @@
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Stockinven\Stockinven\bin\Debug\Stockinven.exe
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Stockinven\Stockinven\bin\Debug\Stockinven.pdb
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Stockinven\Stockinven\bin\Debug\Stockinven.xml
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Stockinven\Stockinven\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Stockinven\Stockinven\obj\Debug\Stockinven.Form1.resources
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Stockinven\Stockinven\obj\Debug\Stockinven.Resources.resources
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Stockinven\Stockinven\obj\Debug\Stockinven.vbproj.GenerateResource.Cache
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Stockinven\Stockinven\obj\Debug\Stockinven.exe
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Stockinven\Stockinven\obj\Debug\Stockinven.xml
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Stockinven\Stockinven\obj\Debug\Stockinven.pdb
+C:\Users\jokenvillanueva\Documents\Visual Studio 2008\Projects\Stockinven\Stockinven\obj\Debug\Stockinven.Stock_Master.resources
+C:\Users\Janobe\Downloads\stockinven_0\Stockinven\Stockinven\obj\Debug\Stockinven.xml
+C:\Users\Janobe\Downloads\stockinven_0\Stockinven\Stockinven\obj\Debug\Stockinven.pdb
+C:\Users\Janobe\Downloads\stockinven_0\Stockinven\Stockinven\bin\Debug\Stockinven.exe
+C:\Users\Janobe\Downloads\stockinven_0\Stockinven\Stockinven\bin\Debug\Stockinven.pdb
+C:\Users\Janobe\Downloads\stockinven_0\Stockinven\Stockinven\bin\Debug\Stockinven.xml
+C:\Users\Janobe\Downloads\stockinven_0\Stockinven\Stockinven\obj\Debug\Stockinven.Resources.resources
+C:\Users\Janobe\Downloads\stockinven_0\Stockinven\Stockinven\obj\Debug\Stockinven.Stock_Master.resources
+C:\Users\Janobe\Downloads\stockinven_0\Stockinven\Stockinven\obj\Debug\Stockinven.vbproj.GenerateResource.Cache
+C:\Users\Janobe\Downloads\stockinven_0\Stockinven\Stockinven\obj\Debug\Stockinven.exe
+C:\Users\Janobe\Downloads\stockinven_0\Stockinven\Stockinven\obj\Debug\Stockinven.vbprojResolveAssemblyReference.cache
+C:\Users\Janobe\Downloads\stockinven_0\Stockinven\Stockinven\obj\Debug\Stockinven.LoginForm1.resources
+C:\Users\Admin\Downloads\stockmaster\obj\Debug\Stockinven.xml
+C:\Users\Admin\Downloads\stockmaster\obj\Debug\Stockinven.pdb
+C:\Users\Admin\Downloads\stockmaster\bin\Debug\Stockinven.exe
+C:\Users\Admin\Downloads\stockmaster\bin\Debug\Stockinven.pdb
+C:\Users\Admin\Downloads\stockmaster\bin\Debug\Stockinven.xml
+C:\Users\Admin\Downloads\stockmaster\obj\Debug\Stockinven.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\stockmaster\obj\Debug\Stockinven.LoginForm1.resources
+C:\Users\Admin\Downloads\stockmaster\obj\Debug\Stockinven.Resources.resources
+C:\Users\Admin\Downloads\stockmaster\obj\Debug\Stockinven.Stock_Master.resources
+C:\Users\Admin\Downloads\stockmaster\obj\Debug\Stockinven.vbproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\stockmaster\obj\Debug\Stockinven.exe
+C:\Users\Admin\Documents\stockmaster\obj\Debug\Stockinven.exe
+C:\Users\Admin\Documents\stockmaster\obj\Debug\Stockinven.xml
+C:\Users\Admin\Documents\stockmaster\obj\Debug\Stockinven.pdb
+C:\Users\Admin\Documents\stockmaster\bin\Debug\Stockinven.exe
+C:\Users\Admin\Documents\stockmaster\bin\Debug\Stockinven.pdb
+C:\Users\Admin\Documents\stockmaster\bin\Debug\Stockinven.xml
+C:\Users\Admin\Documents\stockmaster\obj\Debug\Stockinven.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\stockmaster\obj\Debug\Stockinven.Form1.resources
+C:\Users\Admin\Documents\stockmaster\obj\Debug\Stockinven.LoginForm1.resources
+C:\Users\Admin\Documents\stockmaster\obj\Debug\Stockinven.Resources.resources
+C:\Users\Admin\Documents\stockmaster\obj\Debug\Stockinven.Stock_Master.resources
+C:\Users\Admin\Documents\stockmaster\obj\Debug\Stockinven.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\Stockinven.exe
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\Stockinven.xml
+C:\Users\Admin\Documents\Clinic mangement system\obj\Debug\Stockinven.pdb

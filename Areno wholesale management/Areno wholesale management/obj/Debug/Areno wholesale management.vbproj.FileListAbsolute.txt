@@ -1,0 +1,16 @@
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\bin\Debug\Areno wholesale management.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\bin\Debug\Areno wholesale management.exe
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\bin\Debug\Areno wholesale management.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\bin\Debug\Areno wholesale management.xml
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\obj\Debug\Areno_wholesale_management.Customers.resources
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\obj\Debug\Areno_wholesale_management.Employees.resources
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\obj\Debug\Areno_wholesale_management.login.resources
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\obj\Debug\Areno_wholesale_management.Main_Menu.resources
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\obj\Debug\Areno_wholesale_management.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\obj\Debug\Areno_wholesale_management.Suppliers.resources
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\obj\Debug\Areno wholesale management.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\obj\Debug\Areno wholesale management.exe
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\obj\Debug\Areno wholesale management.xml
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\obj\Debug\Areno wholesale management.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\bin\Debug\database.mdb
+C:\Users\Admin\documents\visual studio 2013\Projects\Areno wholesale management\Areno wholesale management\obj\Debug\Areno_wholesale_management.stock.resources

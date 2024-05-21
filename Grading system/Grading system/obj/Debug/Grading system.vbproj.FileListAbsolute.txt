@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2013\Projects\Grading system\Grading system\bin\Debug\Grading system.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Grading system\Grading system\bin\Debug\Grading system.exe
+c:\users\admin\documents\visual studio 2013\Projects\Grading system\Grading system\bin\Debug\Grading system.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Grading system\Grading system\bin\Debug\Grading system.xml
+c:\users\admin\documents\visual studio 2013\Projects\Grading system\Grading system\obj\Debug\Grading_system.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\Grading system\Grading system\obj\Debug\Grading_system.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\Grading system\Grading system\obj\Debug\Grading system.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\Grading system\Grading system\obj\Debug\Grading system.exe
+c:\users\admin\documents\visual studio 2013\Projects\Grading system\Grading system\obj\Debug\Grading system.xml
+c:\users\admin\documents\visual studio 2013\Projects\Grading system\Grading system\obj\Debug\Grading system.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\Grading system\Grading system\obj\Debug\Grading system.vbprojResolveAssemblyReference.cache

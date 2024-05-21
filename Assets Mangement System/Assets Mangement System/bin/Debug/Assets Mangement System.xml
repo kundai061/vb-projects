@@ -1,0 +1,108 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AssetsMangementSystem
+</name>
+</assembly>
+<members>
+<member name="P:Assets_Mangement_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Assets_Mangement_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Assets_Mangement_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSet.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSet.supplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSet.usersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSet.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSet.supplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSet.usersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSet.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSet.supplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSet.usersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSetTableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSetTableAdapters.supplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSetTableAdapters.usersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Assets_Mangement_System.Database8DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Assets_Mangement_System.Database8DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Assets_Mangement_System.Database8DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Assets_Mangement_System.Database8DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Assets_Mangement_System.Database8DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Assets_Mangement_System.Database8DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Assets_Mangement_System.Database8DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Assets_Mangement_System.Database8DataSetTableAdapters.TableAdapterManager.UpdateAll(Assets_Mangement_System.Database8DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Assets_Mangement_System.Database8DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
